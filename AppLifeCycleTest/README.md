@@ -13,6 +13,6 @@ AppDeletage, SceneDelegate 함수에 주석을 달아 앱 상태에 따른 함�
 
 
 <br>
-공부를 하며 자세히 기록한 내용은 노션에 적어두었습니다 🙂
+자세한 내용은 노션에 기록해두었습니다 🙂 !!!
 
 📓 Notion: [App Life Cycle](https://imported-day-1ea.notion.site/App-Life-Cycle-c4d8ad0971324b899b5b31941c70cd01)
