@@ -11,6 +11,6 @@
 
 
 <br>
-자세한 내용은 노션에 기록해두었습니다 😗 !
+자세한 내용은 노션에 기록해두었습니다 🙂 !!!
 
 📓 Notion: [frame과 bounds의 차이점](https://imported-day-1ea.notion.site/Frame-Bounds-d2310d58b0224ec9979c8614f386fbfe)
