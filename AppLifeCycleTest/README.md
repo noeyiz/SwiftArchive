@@ -7,7 +7,7 @@ AppDeletage, SceneDelegate 함수에 주석을 달아 앱 상태에 따른 함�
 
 
 ### 🔐 백그라운드 진입 시 민감한 정보 가리기
-금융 등 개인 정보를 담는 앱은 백그라운드에서 화면을 가리는 기능을 사용합니다. Scene Delegate의 함수들을 이용하여 앱 상태에 따라 View를 붙였다 뗐다 하여 비슷하게 구현할 수 있었습니다.
+금융 등 개인 정보를 담는 앱은 백그라운드에서 화면을 가리는 기능을 사용합니다. Scene Delegate의 함수들을 이용하여 앱 상태에 따라 View를 붙였다 뗐다 하는 방법으로 비슷하게 구현할 수 있었습니다.
 
 <img width="300" alt="comments" src="https://user-images.githubusercontent.com/116897060/199451397-1e270b40-f0ff-4f62-aacf-3fdb72637684.gif"></img>
 
