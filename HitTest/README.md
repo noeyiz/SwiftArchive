@@ -1,6 +1,6 @@
 # HitTest
 
-📌 참고 : [zeddios hitTest](https://zeddios.tistory.com/536)
+📌 참고 : [zeddios님 hitTest](https://zeddios.tistory.com/536)
 
 
 <br>
