@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		90F09228291254DA0076695E /* AppLifeCycleTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AppLifeCycleTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		90F09228291254DA0076695E /* AppLifeCycle.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AppLifeCycle.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		90F0922B291254DA0076695E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		90F0922D291254DA0076695E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		90F0922F291254DA0076695E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		90F09229291254DA0076695E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				90F09228291254DA0076695E /* AppLifeCycleTest.app */,
+				90F09228291254DA0076695E /* AppLifeCycle.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -64,15 +64,16 @@
 				90F09236291254DC0076695E /* LaunchScreen.storyboard */,
 				90F09239291254DC0076695E /* Info.plist */,
 			);
-			path = AppLifeCycleTest;
+			name = AppLifeCycleTest;
+			path = AppLifeCycle;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		90F09227291254DA0076695E /* AppLifeCycleTest */ = {
+		90F09227291254DA0076695E /* AppLifeCycle */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 90F0923C291254DC0076695E /* Build configuration list for PBXNativeTarget "AppLifeCycleTest" */;
+			buildConfigurationList = 90F0923C291254DC0076695E /* Build configuration list for PBXNativeTarget "AppLifeCycle" */;
 			buildPhases = (
 				90F09224291254DA0076695E /* Sources */,
 				90F09225291254DA0076695E /* Frameworks */,
@@ -82,9 +83,9 @@
 			);
 			dependencies = (
 			);
-			name = AppLifeCycleTest;
+			name = AppLifeCycle;
 			productName = AppLifeCycleTest;
-			productReference = 90F09228291254DA0076695E /* AppLifeCycleTest.app */;
+			productReference = 90F09228291254DA0076695E /* AppLifeCycle.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +103,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 90F09223291254DA0076695E /* Build configuration list for PBXProject "AppLifeCycleTest" */;
+			buildConfigurationList = 90F09223291254DA0076695E /* Build configuration list for PBXProject "AppLifeCycle" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +116,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				90F09227291254DA0076695E /* AppLifeCycleTest */,
+				90F09227291254DA0076695E /* AppLifeCycle */,
 			);
 		};
 /* End PBXProject section */
@@ -289,7 +290,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = U3V7X75S9T;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = AppLifeCycleTest/Info.plist;
+				INFOPLIST_FILE = AppLifeCycle/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -300,7 +301,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.jikoo.AppLifeCycleTest;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jikoo.AppLifeCycle;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -317,7 +318,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = U3V7X75S9T;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = AppLifeCycleTest/Info.plist;
+				INFOPLIST_FILE = AppLifeCycle/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -328,7 +329,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.jikoo.AppLifeCycleTest;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jikoo.AppLifeCycle;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -339,7 +340,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		90F09223291254DA0076695E /* Build configuration list for PBXProject "AppLifeCycleTest" */ = {
+		90F09223291254DA0076695E /* Build configuration list for PBXProject "AppLifeCycle" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				90F0923A291254DC0076695E /* Debug */,
@@ -348,7 +349,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		90F0923C291254DC0076695E /* Build configuration list for PBXNativeTarget "AppLifeCycleTest" */ = {
+		90F0923C291254DC0076695E /* Build configuration list for PBXNativeTarget "AppLifeCycle" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				90F0923D291254DC0076695E /* Debug */,
